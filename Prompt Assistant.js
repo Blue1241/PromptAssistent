@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         ChatGPT Prompt Assistant Pro+
-// @namespace    https://github.com/your-profile
-// @version      1.3.3
+// @name         ChatGPT Prompt Assistant
+// @namespace    https://github.com/Blue1241
+// @version      1.0.0
 // @description  Умная вставка промптов с тёмной темой и большой базой промптов
-// @author       Expert Developer
+// @author       blue_12
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
 // @match        https://*.chat.openai.com/*
